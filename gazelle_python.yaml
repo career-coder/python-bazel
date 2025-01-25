@@ -9,4 +9,4 @@ manifest:
     scipy: scipy
   pip_repository:
     name: pip
-integrity: a46cf199a4d7f65ac4fa2605204a12212c82e732389f682ea686cf72824cf47e
+integrity: ab69b254a8cbecf18e9f05254b2fac8f5b52934c8668966509139152df591806
